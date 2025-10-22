@@ -1,0 +1,16 @@
+## Summary
+
+Describe the change in one or two sentences.
+
+## Type of change
+- [ ] Add new entry
+- [ ] Update existing entry
+- [ ] Fix link/typo
+- [ ] Documentation change
+- [ ] CI / GitHub metadata
+
+## Checklist
+- [ ] I followed the contribution guidelines in CONTRIBUTING.md.
+- [ ] Links in my change are working and not behind a paywall.
+- [ ] I removed any placeholder "[...]" text.
+- [ ] I updated Expiration field (or set to "Unknown"/"Unlimited"/a specific date).
